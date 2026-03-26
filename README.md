@@ -1,2 +1,2 @@
 # Repos1
-My first repository. The cool project.
+My first repository. The cool.
